@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.main{
+  font-family: 'Rye';
+  font-size: 40px;
+  font-weight: 400;
+}
+.pra{
+  font-family: 'libre Bodoni';
+  color: #a38e40;
+}
+.button{
+  color: aliceblue;
+}
